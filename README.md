@@ -40,7 +40,7 @@ This chart visualizes the top tweets based on engagement rates. Engagement rates
 
 **Insights**: This visualization highlights which types of tweets — based on media engagement, posting time, and date characteristics — generate higher interactions, offering actionable insights for maximizing engagement.
 
-### Overall Dashboard Insights**
+### Overall Dashboard Insights
 
 ## Objective
 This dashboard is designed to reveal high-performing tweet characteristics based on a range of engagement metrics and categories. By analyzing likes, replies, retweets, hashtags, and media interactions, it provides a comprehensive view of what works best on Twitter.
