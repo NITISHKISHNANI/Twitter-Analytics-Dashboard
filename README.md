@@ -29,7 +29,7 @@ This chart visualizes the top tweets based on engagement rates. Engagement rates
 
 **Insights**: This section helps identify which interaction types drive the most engagement depending on whether tweets contain hashtags or media, which is useful for optimizing tweet formats.
 
-### 3. Engagement Comparison: Replies, Retweets, Likes
+### 3. Engagement Comparison: Replies, Retweets, Likes:
 
 **Description**: This bar chart compares engagement metrics — replies, retweets, and likes — for tweets with media engagements above the median. It further filters by tweets posted during specific time frames, odd/even dates, and media view counts.
 **Metrics**:
